@@ -1,7 +1,7 @@
 Presentations
 =============
 
-This is a repository containing the very few presentations I've given so far. Each dated directory contains a presentation in PDF and Keynote format, along with a submodule link to any relevant code respositories, if applicable.
+This is a repository containing the very few presentations I give. Each dated directory contains a presentation in PDF and Keynote format, along with a submodule link to any relevant code respositories, if applicable.
 
 To use
 ------

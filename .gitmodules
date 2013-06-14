@@ -1,0 +1,3 @@
+[submodule "June_13_2013_Node_js_Cocoaheads_Ottawa/cocoaheadsmeetings"]
+	path = June_13_2013_Node_js_Cocoaheads_Ottawa/cocoaheadsmeetings
+	url = git://github.com/pguitard/cocoaheadsmeetings.git
