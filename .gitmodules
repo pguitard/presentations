@@ -1,3 +1,6 @@
 [submodule "June_13_2013_Node_js_Cocoaheads_Ottawa/cocoaheadsmeetings"]
 	path = June_13_2013_Node_js_Cocoaheads_Ottawa/cocoaheadsmeetings
 	url = git://github.com/pguitard/cocoaheadsmeetings.git
+[submodule "December_12_2013_Objective_Cloud_Cocoaheads_Ottawa/facedetector"]
+	path = December_12_2013_Objective_Cloud_Cocoaheads_Ottawa/facedetector
+	url = https://github.com/pguitard/facedetector.git
